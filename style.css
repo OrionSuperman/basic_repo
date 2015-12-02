@@ -1,0 +1,21 @@
+#wrapper {
+	color: white;
+	background-color: black;
+	width: 710px;
+}
+
+.puppic {
+	width: 340px;
+	height: 250px;
+	border: 3px ridge gray;
+	display: inline-block;
+	margin: 3px;
+}
+
+h1 {
+	margin: 10px 10px 25px 10px;
+}
+
+p {
+	margin: 8px;
+}
